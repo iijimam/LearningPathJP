@@ -55,7 +55,7 @@ InterSystems IRIS®データ・プラットフォームは、信頼性の高い�
 
 - InterSystems IRIS データプラットフォームのご紹介
 
-    [![](http://img.youtube.com/vi/vo12UnH-c-s/0.jpg)](https://www.youtube.com/embed/vo12UnH-c-s?list=PLzSN_5VbNaxD-r8wU4LHwLwGSzUjrffEX)
+    [![IRIS紹介](http://img.youtube.com/vi/vo12UnH-c-s/0.jpg)](https://www.youtube.com/watch?v=vo12UnH-c-s&list=PLzSN_5VbNaxD-r8wU4LHwLwGSzUjrffEX)
 
 ## 2. サーバーサイドアプリケーションの構築
 
@@ -71,7 +71,9 @@ InterSystems IRIS で ObjectScript を使用して高性能なアプリケーシ
 最初に、概要をビデオでご覧ください。その後、InterSystems IRIS® データプラットフォームのアーキテクチャとクラスの基本を学び、ObjectScript でのコーディングを開始します。
 
 - InterSystems 製品のアーキテクチャ概要 ～ネームスペースとデータベース～
-    <iframe width="521" height="293" src="https://www.youtube.com/embed/TNjUnuw8K_Q?list=PLzSN_5VbNaxCWpesN3ulh_EZ9sGkw09q5" title="InterSystems 製品のアーキテクチャ概要 ～ネームスペースとデータベース～" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    [![IRISアーキテクチャ](http://img.youtube.com/vi/TNjUnuw8K_Q/0.jpg)](https://www.youtube.com/watch?v=TNjUnuw8K_Q?list=PLzSN_5VbNaxCWpesN3ulh_EZ9sGkw09q5)
+   
 
 英語のみとなりますが、以下のオンラインコースもあります。
 
@@ -162,7 +164,7 @@ InterSystems製品でのJSON操作については、以下記事をご参照く�
     
     -InterSystems IRIS データプラットフォームのご紹介
 
-    <iframe width="521" height="293" src="https://www.youtube.com/embed/vo12UnH-c-s?list=PLzSN_5VbNaxD-r8wU4LHwLwGSzUjrffEX&t=1203" title="医療ITセミナー：InterSystems IRIS データプラットフォームのご紹介" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        [![IRIS紹介](http://img.youtube.com/vi/vo12UnH-c-s/0.jpg)](https://www.youtube.com/watch?v=vo12UnH-c-s&list=PLzSN_5VbNaxD-r8wU4LHwLwGSzUjrffEX)
    
     - シリーズ記事：[【はじめてのInterSystems IRIS】Interoperability（相互運用性）：動作の仕組みを知ろう](https://jp.community.intersystems.com/node/483036)
 
@@ -173,7 +175,8 @@ InterSystems製品でのJSON操作については、以下記事をご参照く�
 
     InterSystems製品のInteroperability（相互運用性）メニューで使用できるファイル入出力処理に便利な機能のご紹介
 
-    <iframe width="521" height="293" src="https://www.youtube.com/embed/dnfPTffiSVo?list=PLzSN_5VbNaxCWpesN3ulh_EZ9sGkw09q5" title="レコードマップのご紹介～InterSystems製品のInteroperability（相互運用性）メニューで使用できるファイル入出力処理に便利な機能のご紹介～" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    [![レコードマップ紹介](http://img.youtube.com/vi/dnfPTffiSVo/0.jpg)](https://www.youtube.com/watch?v=dnfPTffiSVo&list=PLzSN_5VbNaxD-r8wU4LHwLwGSzUjrffEX)
+
 
     ご参考：[レコードマップで何ができるか？](https://jp.community.intersystems.com/node/494326)
 
@@ -188,7 +191,9 @@ InterSystems製品でのJSON操作については、以下記事をご参照く�
 
 
 -　ビジネス・ルールエディタの使い方
-    <iframe width="521" height="293" src="https://www.youtube.com/embed/4tG-txYZwtg?list=PLzSN_5VbNaxCWpesN3ulh_EZ9sGkw09q5" title="ビジネス・ルールエディタの使い方" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    [![ビジネス・ルールエディタの使い方](http://img.youtube.com/vi/4tG-txYZwtg/0.jpg)](https://www.youtube.com/watch?v=4tG-txYZwtg&list=PLzSN_5VbNaxD-r8wU4LHwLwGSzUjrffEX)
+
     ※新エディタに未対応
 
 - [オンラインコース（英語）:Data Transformations Basics](https://learning.intersystems.com/enrol/index.php?id=1170)
@@ -206,7 +211,8 @@ FHIR® HL7® V2 コンポーネントなど、多くのビルド済みビジネ�
 
 - Interoperabilityメニューで使用するカスタムメッセージクラス作成方法
 
-    <iframe width="521" height="293" src="https://www.youtube.com/embed/K6jAqSpnaXY?list=PLzSN_5VbNaxCWpesN3ulh_EZ9sGkw09q5" title="InterSystems製品のInteroperabilityメニューで使用するカスタムメッセージクラス作成方法" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    [![ビジネス・ルールエディタの使い方](http://img.youtube.com/vi/K6jAqSpnaXY/0.jpg)](https://www.youtube.com/watch?v=K6jAqSpnaXY&list=PLzSN_5VbNaxD-r8wU4LHwLwGSzUjrffEX)
+
 
     関連する日本語記事もあります。
     - [【はじめてのInterSystems IRIS】Interoperability（相互運用性）：メッセージ](https://jp.community.intersystems.com/node/483131)
@@ -260,7 +266,7 @@ InterSystems API Manager が提供するツールを参照してください：
 
 - InterSystems API Manager のご紹介
 
-    <iframe width="521" height="293" src="https://www.youtube.com/embed/6oX3HTDI8_A?list=PLzSN_5VbNaxCWpesN3ulh_EZ9sGkw09q5" title="InterSystems API Manager のご紹介" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    [![IRIS APIManager](http://img.youtube.com/vi/6oX3HTDI8_A/0.jpg)](https://www.youtube.com/watch?v=6oX3HTDI8_A&list=PLzSN_5VbNaxD-r8wU4LHwLwGSzUjrffEX)
 
     参考となる記事：[ゼロから使いこなす IAM（InterSystems API Manager）](https://jp.community.intersystems.com/node/493416)
 
@@ -291,14 +297,18 @@ InterSystems IRISに組み込まれたInterSystems IRIS Business Intelligenceは
 
 - InterSystems IRIS Business Intelligence 概要
 
-    <iframe width="521" height="293" src="https://www.youtube.com/embed/xV9Aa31zxhI?list=PLzSN_5VbNaxCWpesN3ulh_EZ9sGkw09q5" title="InterSystems IRIS Business Intelligence 概要" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    [![InterSystems BI](http://img.youtube.com/vi/xV9Aa31zxhI/0.jpg)](https://www.youtube.com/watch?v=xV9Aa31zxhI&list=PLzSN_5VbNaxD-r8wU4LHwLwGSzUjrffEX)
+    
 
 - InterSystems Business Intelligenceで使用するキューブ概要
 
-    <iframe width="521" height="293" src="https://www.youtube.com/embed/xgAdwTy_q1Q?list=PLzSN_5VbNaxCWpesN3ulh_EZ9sGkw09q5" title="InterSystems Business Intelligenceで使用するキューブ概要" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    [![キューブ概要](http://img.youtube.com/vi/xgAdwTy_q1Q/0.jpg)](https://www.youtube.com/watch?v=xgAdwTy_q1Q&list=PLzSN_5VbNaxD-r8wU4LHwLwGSzUjrffEX)
+
 
 - InterSystems IRIS Business Intelligence：アーキテクト画面の基本の使い方
-    <iframe width="521" height="293" src="https://www.youtube.com/embed/VblJyJl2Xho?list=PLzSN_5VbNaxCWpesN3ulh_EZ9sGkw09q5" title="InterSystems IRIS Business Intelligence：アーキテクト画面の基本の使い方" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    [![アーキテクト概要](http://img.youtube.com/vi/xgAdwTy_q1Q/0.jpg)](https://www.youtube.com/watch?v=xgAdwTy_q1Q&list=PLzSN_5VbNaxD-r8wU4LHwLwGSzUjrffEX)
+
 
 - [ビデオ（英語）:InterSystems IRIS BI: Analyzer](https://learning.intersystems.com/course/view.php?name=IRISBIAnalyzer)
 
@@ -313,7 +323,8 @@ InterSystems IRIS の SQL 環境に直接組み込まれた IntegratedML によ�
 
 - Integrated ML のご紹介～InterSystems IRISのAutoMLご紹介～
 
-    <iframe width="521" height="293" src="https://www.youtube.com/embed/PFiqENE1uKA?list=PLzSN_5VbNaxCWpesN3ulh_EZ9sGkw09q5" title="Integrated ML のご紹介～InterSystems IRISのAutoMLご紹介～" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    [![IML紹介](http://img.youtube.com/vi/PFiqENE1uKA/0.jpg)](https://www.youtube.com/watch?v=PFiqENE1uKA&list=PLzSN_5VbNaxD-r8wU4LHwLwGSzUjrffEX)
+
 
     より詳細を確認する場合のおすすめビデオは以下
     - [SQLから始める機械学習 ～　IntegratedMLのご紹介　～（2021年10月19日開催）](https://www.youtube.com/watch?v=3yLK9kBs4ic&list=PLzSN_5VbNaxC-z6_DKUZuO__zyudjLE-g&index=2)
