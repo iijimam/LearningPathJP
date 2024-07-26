@@ -52,9 +52,10 @@ InterSystems IRIS®データ・プラットフォームは、信頼性の高い�
 日本語字幕入りはこちら👉[What Is InterSystems IRIS?](https://learning.intersystems.com/course/view.php?id=2118)
 
 もう少し詳しく確認されたい方は約30分の以下ビデオをご参照ください。
-<iframe width="521" height="293" src="https://www.youtube.com/embed/vo12UnH-c-s?list=PLzSN_5VbNaxD-r8wU4LHwLwGSzUjrffEX" title="医療ITセミナー：InterSystems IRIS データプラットフォームのご紹介" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[「InterSystems IRIS データプラットフォームのご紹介」](https://www.youtube.com/watch?v=vo12UnH-c-s&list=PLzSN_5VbNaxD-r8wU4LHwLwGSzUjrffEX)をご参照ください。
 
+- InterSystems IRIS データプラットフォームのご紹介
+
+    [![](http://img.youtube.com/vi/vo12UnH-c-s/0.jpg)](https://www.youtube.com/embed/vo12UnH-c-s?list=PLzSN_5VbNaxD-r8wU4LHwLwGSzUjrffEX)
 
 ## 2. サーバーサイドアプリケーションの構築
 
