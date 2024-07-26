@@ -55,7 +55,7 @@ InterSystems IRIS®データ・プラットフォームは、信頼性の高い�
 
 - InterSystems IRIS データプラットフォームのご紹介
 
-    [![IRIS紹介](http://img.youtube.com/vi/vo12UnH-c-s/0.jpg)](https://www.youtube.com/watch?v=vo12UnH-c-s&list=PLzSN_5VbNaxD-r8wU4LHwLwGSzUjrffEX)
+   ![![IRIS紹介](http://img.youtube.com/vi/vo12UnH-c-s/0.jpg)](https://www.youtube.com/watch?v=vo12UnH-c-s&list=PLzSN_5VbNaxD-r8wU4LHwLwGSzUjrffEX)
 
 ## 2. サーバーサイドアプリケーションの構築
 
